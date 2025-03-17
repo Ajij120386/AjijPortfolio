@@ -64,5 +64,18 @@ More Functionality will be added with time
 ![Document - Google Chrome 3_17_2025 12_35_09 AM](https://github.com/user-attachments/assets/967c6e9d-c5e4-42f1-805e-158d880f540f)
 
 # Modern & Responsive Design 🎨 
+![WhatsApp Image 2025-03-17 at 12 53 44 PM](https://github.com/user-attachments/assets/f3737cbb-f8dc-40a4-ae5f-7a1da6f382b9)
+
+![WhatsApp Image 2025-03-17 at 12 53 44 PM (1)](https://github.com/user-attachments/assets/a2b30f3a-d7a7-4ceb-b833-86487d82bf1f)
+
+![WhatsApp Image 2025-03-17 at 12 53 45 PM](https://github.com/user-attachments/assets/b9aaac34-c73a-41c8-9e9a-d214565293ac)
+
+![WhatsApp Image 2025-03-17 at 12 53 45 PM (1)](https://github.com/user-attachments/assets/2c6af628-80aa-46b9-a8e0-c69891027b5b)
+![WhatsApp Image 2025-03-17 at 12 53 46 PM](https://github.com/user-attachments/assets/5de93a65-aa8d-4788-8d27-ff2fe55d6d9e)
+![WhatsApp Image 2025-03-17 at 12 53 46 PM (1)](https://github.com/user-attachments/assets/1b490cf4-30c9-4624-bb0e-4d64e4ddfd95)
 
 
+
+## Authors
+
+- [Mohammad Ajij](https://github.com/Ajij120386)
